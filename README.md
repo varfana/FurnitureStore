@@ -70,7 +70,7 @@ To access this project
 
 ## Developer
 
-- [@Armaan-Singh-Dhillon](https://github.com/varfana)
+- [@Shaik Varfana Madam](https://github.com/varfana)
 
 ## Support
 
