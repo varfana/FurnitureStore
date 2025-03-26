@@ -70,7 +70,7 @@ To access this project
 
 ## Developer
 
-- [@Shaik Varfana Madam](https://github.com/varfana)
+- [@Varfana Madam](https://github.com/varfana)
 
 ## Support
 
