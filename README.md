@@ -65,7 +65,7 @@ Start the server
 
 ## Developer
 
-- [@Varfana Madam](https://github.com/varfana)
+- [@Varfana](https://github.com/varfana)
 
 ## Support
 
