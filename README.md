@@ -70,8 +70,8 @@ To access this project
 
 ## Developer
 
-- [@Armaan-Singh-Dhillon](https://github.com/Armaan-Singh-Dhillon)
+- [@Armaan-Singh-Dhillon](https://github.com/varfana)
 
 ## Support
 
-For support, email dhillonarmaan2004@gmail.com
+For support, email shaikvarfana786@gmail.com
