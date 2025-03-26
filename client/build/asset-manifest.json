@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddd8d21b.css",
+    "main.js": "/static/js/main.6a563715.js",
+    "static/js/787.6631ca78.chunk.js": "/static/js/787.6631ca78.chunk.js",
+    "static/media/globe.gif": "/static/media/globe.03f05cb9a70fb63385e3.gif",
+    "static/media/home-main.jpg": "/static/media/home-main.e3e38cea15caf6b2a3d5.jpg",
+    "static/media/treegif.gif": "/static/media/treegif.d937ca323306634122e8.gif",
+    "static/media/wood.jpg": "/static/media/wood.82f6a9e4a5846e88f7d8.jpg",
+    "static/media/timeline.jpg": "/static/media/timeline.c5c54c7f23ea8e6896e7.jpg",
+    "static/media/notermite.png": "/static/media/notermite.21a4173eee16eae00f34.png",
+    "static/media/refurbished.jpg": "/static/media/refurbished.2ad82bf9157a3ce2a362.jpg",
+    "static/media/appstores.jpg": "/static/media/appstores.c0af8ce80e9023403a2c.jpg",
+    "static/media/furniture_shop_liscard_logo.png": "/static/media/furniture_shop_liscard_logo.d3c46b19121150012312.png",
+    "static/media/user.png": "/static/media/user.dcdb3675b9fd6521f269.png",
+    "static/media/instagram-1-svgrepo-com.svg": "/static/media/instagram-1-svgrepo-com.a0a9a83448ddb5827d70493a84d37806.svg",
+    "static/media/mastercard-svgrepo-com.svg": "/static/media/mastercard-svgrepo-com.1e87384d57b62f4e3177f16b8f7bafb6.svg",
+    "static/media/maestro-svgrepo-com.svg": "/static/media/maestro-svgrepo-com.0ca48fc3aa666cb7299b2d70abb96c85.svg",
+    "static/media/new.svg": "/static/media/new.0046351b9d4bb6dc2c3a97df28e62293.svg",
+    "static/media/refund.svg": "/static/media/refund.b288875e3a6752c85f501087badb9730.svg",
+    "static/media/visa-svgrepo-com.svg": "/static/media/visa-svgrepo-com.51c225335481dc0cb7cfa09c0bdbd4de.svg",
+    "static/media/twitter-svgrepo-com.svg": "/static/media/twitter-svgrepo-com.f98fc735ff3e4e01f002fea7e135bc9d.svg",
+    "static/media/samsung-internet-browser-svgrepo-com.svg": "/static/media/samsung-internet-browser-svgrepo-com.08ed22206ec7c5f02585a6101d07fc95.svg",
+    "static/media/wallet-svgrepo-com.svg": "/static/media/wallet-svgrepo-com.bc55a2843bc925c330c979878feee078.svg",
+    "static/media/youtube-svgrepo-com.svg": "/static/media/youtube-svgrepo-com.dd044bf8744fd318a9456b1fafa2e20b.svg",
+    "index.html": "/index.html",
+    "static/media/facebook-svgrepo-com.svg": "/static/media/facebook-svgrepo-com.d7ae402097540aaf86a5858a32ff23f1.svg",
+    "main.ddd8d21b.css.map": "/static/css/main.ddd8d21b.css.map",
+    "main.6a563715.js.map": "/static/js/main.6a563715.js.map",
+    "787.6631ca78.chunk.js.map": "/static/js/787.6631ca78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddd8d21b.css",
+    "static/js/main.6a563715.js"
+  ]
+}
