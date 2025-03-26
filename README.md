@@ -13,7 +13,7 @@ Welcome to The Furniture Shop, a personal MERN (MongoDB, Express, React, Node.js
 Clone the project
 
 ```bash
-  git clone git@github.com:Armaan-Singh-Dhillon/Furniture-Store.git
+  git clone git@github.com:varfana/FurnitureStore.git
 ```
 
 Go to the project directory
@@ -30,11 +30,6 @@ Start the server
  nodemon server.js
 ```
 
-## Project Deployed On Vercel
-
-To access this project
-
-[Click Here To See The Deployed Project](https://furniture-store-96m5vuu9v-armaan-singh-dhillon.vercel.app/products/)
 
 ## Screenshots
 
